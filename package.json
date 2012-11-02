@@ -1,0 +1,7 @@
+{
+  "name": "mocha-test",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "0.7.0"
+  }
+}
